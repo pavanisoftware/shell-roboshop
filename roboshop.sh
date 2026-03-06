@@ -1,5 +1,5 @@
 #!/bin/bash
-SG_ID="sg-0b63f14ba506a546d"
+SG_ID="sg-0fe71c831cdcd4fab"
 AMI_ID="ami-0220d79f3f480ecf5"
 ZONE_ID="Z079204444147MOE78UW"
 DOMAIN_NAME="pav.social"
